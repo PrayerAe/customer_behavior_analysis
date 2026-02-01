@@ -1,7 +1,8 @@
 📊 Data Analytics Project: End-to-End Business Insights
 
 📌 Overview
-<img width="1315" height="714" alt="image" src="https://github.com/user-attachments/assets/dc680c55-ecc6-4336-becb-43f0b278a32b" />
+<img width="1316" height="716" alt="image" src="https://github.com/user-attachments/assets/0eface35-a5d1-476b-bf24-ffaeffee3aac" />
+
 
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data ingestion to business insight delivery through interactive dashboards and presentations.
